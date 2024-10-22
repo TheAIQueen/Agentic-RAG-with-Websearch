@@ -19,7 +19,6 @@ The focus of this project is a custom dataset of **female scientists**, which hi
 - 🤖 **Intel's Neural Chat**: Language model for generating natural language responses.
 - 📊 **Sentence Transformers**: For embedding documents and improving retrieval.
 - 🐼 **Pandas**: For data manipulation and dataset management.
-- 🐍 **Kaggle**: Platform for publishing and sharing the custom dataset.
 
 ## Dataset
 
