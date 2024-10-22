@@ -5,13 +5,11 @@
 
 This repository contains a project that builds an **Agentic Retrieval-Augmented Generation (RAG)** system with integrated web search capabilities. The system leverages **Intel's Neural Chat** model from Hugging Face for natural language generation and utilizes the **Haystack** framework for efficient document retrieval and response generation.
 
-The focus of this project is a custom dataset of **female scientists**, which highlights their contributions to various fields of science. This dataset has been curated and published on Kaggle.
-
 ## Features
 
 - 🔍 **Agentic RAG System**: Combines retrieval and generation capabilities for enhanced response quality.
 - 🌐 **Web Search Integration**: Enriches responses with real-time information from the web.
-- 👩‍🔬 **Focus on Female Scientists**: Provides insights into the achievements of notable women in science.
+
 
 ## Technologies Used
 
